@@ -1,6 +1,8 @@
 # System 1
 System Software for the Chloe 280SE.
 
+<kbd><img src="SYSTEM1.jpg" alt="CD cover art" width="470"/></kbd>
+
 The 280SE ROM firmware comprises:
 * an API layer: SE/OS 1.0,
 * a disk operating system: UnoDOS 3.1, and
@@ -52,4 +54,4 @@ System 1 provides an online help system that can be accesed by pressing the <kbd
 
 ## RUN BASIC application framework
 
-System 1 provides a framework for converting a BASIC program into an application.
+System 1 provides a framework for converting a BASIC program into an application in the form of the `RUNBASIC` app.
