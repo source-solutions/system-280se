@@ -39,6 +39,19 @@ By default, the 280SE uses code page 437. System 1 enables you to override the d
 
 System 1 provides a `SYSTEM.INC` file for use when building applications it includes all the SE/OS and UnoDOS system calls.
 
+## Keyboards
+
+System 1 provides support for these PS/2 keyboard layouts:
+
+* **AZERTY**: French
+* **BR**: Brazilian Portuguese
+* **CHLOE**: International English
+* **COLEMAK**
+* **DVORAK**
+* **ES**: Spanish
+* **QWERTZ**: German
+* **US**: English
+
 ## Languages
 
 System 1 enables you to change the language for the error messages on boot to:
