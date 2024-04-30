@@ -68,3 +68,8 @@ System 1 provides an online help system that can be accesed by pressing the <kbd
 ## RUN BASIC application framework
 
 System 1 provides a framework for converting a BASIC program into an application in the form of the `RUNBASIC` app.
+
+## License
+
+Copyright © 2024, Source Solutions, Inc. Licensed under GPLv3.
+
